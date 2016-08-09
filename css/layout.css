@@ -203,7 +203,7 @@ ul#nav li.current a { color: #ffffff; }
 	display: block;
 	padding: 12px 0 30px;
 	min-width: 25%;
-	float: left;	
+	float: center;	
 	border-left: 1px dotted rgba(255, 255, 255, .2);	
 }
 #main #counter span:first-child { border-left: none; }
@@ -277,7 +277,7 @@ ul#nav li.current a { color: #ffffff; }
    padding: 0;
 }
 #main .social li a { color: #fff; }
-#main .social li a:hover { color: #197C28; }
+#main .social li a:hover { color: #d1f9ff; }
 
 
 /* ------------------------------------------------------------------ */

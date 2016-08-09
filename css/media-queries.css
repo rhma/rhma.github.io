@@ -19,15 +19,16 @@
 	------------------------------------------------------------------ */
 	header #logo {	
 		top: 66px;	
-		width: 100px;
-		margin-left: -50px;
+		width: 400px;
+		margin-left: -200px;
+	
 	}
 
    /* main
    ------------------------------------------------------------------ */
    #main { margin-top: 90px; }
   	#main h1 { 
-  		font: 38px/1.2em 'montserrat-bold', sans-serif; 
+  		font: 30px/1.2em 'montserrat-regular', sans-serif; 
   		padding: 0 15%;
   	}
 	#main p { font: 16px/30px 'montserrat-regular', sans-serif; }
@@ -51,12 +52,17 @@
 	/* intro styles
 	------------------------------------------------------------------ */
 	#intro {	min-height: 502px; }
-
+	header #logo {	
+		top: 50px;	
+		width: 350px;
+		margin-left: -175px;
+	
+	}
    /* main
    ------------------------------------------------------------------ */
    #main h1 { 
-  		font: 35px/1.2em 'montserrat-bold', sans-serif; 
-  		padding: 0 8%;
+  		font: 30px/1.2em 'montserrat-regular', sans-serif; 
+  		padding: 0 5%;
   	}
   	#main p { 
   		font: 16px/30px 'montserrat-regular', sans-serif;
@@ -98,8 +104,8 @@
 	------------------------------------------------------------------ */
 	header #logo {	
 		top: 30px;	
-		width: 90px;
-		margin-left: -45px;			
+		width: 300px;
+		margin-left: -150px;			
 	}
 
 	/* primary navigation
@@ -114,7 +120,7 @@
    ------------------------------------------------------------------ */
    #main { margin-top: 48px; }
   	#main h1 { 
-  		font: 30px/1.2em 'montserrat-bold', sans-serif; 
+  		font: 20px/1.2em 'montserrat-regular', sans-serif; 
   		text-align: center;  		
   	}
   	#main p {	
@@ -181,7 +187,7 @@
    	margin-bottom: 30px;
    }
    #about .header { text-align: center; }
-   #about h1 {	font: 26px/36px 'montserrat-bold', sans-serif; }   
+   #about h1 {	font: 20px/36px 'montserrat-regular', sans-serif; }   
 
    /* Call To Action Section
    ----------------------------------------------------------------- */
@@ -228,7 +234,7 @@
    /* main
    ------------------------------------------------------------------ */
    #main h1 { 
-  		font: 28px/1.2em 'montserrat-bold', sans-serif; 
+  		font: 20px/1.2em 'montserrat-regular', sans-serif; 
 		padding: 0 5px;
   	}
     
@@ -288,7 +294,7 @@
 	/* main
    ------------------------------------------------------------- */
    #main { margin-top: 42px; }
-   #main h1 { font: 25px/1.2em 'montserrat-bold', sans-serif; 	}
+   #main h1 { font: 25px/1.2em 'montserrat-regular', sans-serif; 	}
   	#main p { font: 12px/21px 'montserrat-regular', sans-serif;	}
 
   	/* counter
